@@ -8,14 +8,11 @@
   </requires>
   <extension library="lib" point="xbmc.python.module" />
   <extension point="xbmc.addon.metadata">
-        <description lang="en">pyjwt module</description>
-        <summary lang="en">pyjwt module</summary>
+        <description lang="en_GB">pyjwt module</description>
+        <summary lang="en_GB">pyjwt module</summary>
         <license>MIT</license>
         <platform>all</platform>
-        <email></email>
         <website>https://pyjwt.readthedocs.io</website>
-        <forum></forum>
         <source>https://github.com/jpadilla/pyjwt</source>
-        <language></language>
    </extension>
 </addon>
