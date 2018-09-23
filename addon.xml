@@ -4,7 +4,7 @@
        provider-name="jpadilla (hello@jpadilla.com)" 
        version="1.6.4">
   <requires>
-    <import addon="xbmc.python" version="2.14.0" />
+    <import addon="xbmc.python" version="2.24.0" />
   </requires>
   <extension library="lib" point="xbmc.python.module" />
   <extension point="xbmc.addon.metadata">
