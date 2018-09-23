@@ -8,7 +8,7 @@
   </requires>
   <extension library="lib" point="xbmc.python.module" />
   <extension point="xbmc.addon.metadata">
-        <description lan="en">pyjwt module</description>
+        <description lang="en">pyjwt module</description>
         <summary lang="en">pyjwt module</summary>
         <license>MIT</license>
         <platform>all</platform>
